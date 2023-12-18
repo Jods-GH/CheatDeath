@@ -24,11 +24,15 @@ ActivateDebugPrints = false
 These values can be adjusted to suit your preferences through the .ini options.  
   
 ### SpawnCommands:  
-  
-CheatDeathFlag: cheat giveitem "/CheatDeath/Items/PrimalItemStructure_DinoCheatDeath_Flag.PrimalItemStructure_DinoCheatDeath_Flag" 10 0 0 false  
-  
-CheatDeathConsumable: cheat giveitem "/CheatDeath/Items/PrimalItem_DinoCheatDeath_Consumable.PrimalItem_DinoCheatDeath_Consumable" 10 0 0 false  
-  
+
++ CheatDeathFlag:
+```
+cheat giveitem "/CheatDeath/Items/PrimalItemStructure_DinoCheatDeath_Flag.PrimalItemStructure_DinoCheatDeath_Flag" 10 0 0 false  
+```
++ CheatDeathConsumable:
+```
+ cheat giveitem "/CheatDeath/Items/PrimalItem_DinoCheatDeath_Consumable.PrimalItem_DinoCheatDeath_Consumable" 10 0 0 false  
+```  
 I would like to extend my special thanks to the Ark modding community on Discord, particularly Quellcast, Pullourpo, and joehelp, whose guidance and assistance were instrumental in helping me navigate the intricacies of the ArkDevKit and kick-starting this project.  
 
 [//]: # (Links)
