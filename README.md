@@ -13,14 +13,14 @@ This mechanism operates by temporarily rendering the dinosaur immune to harm for
 
 
 ### Config options. (time is in seconds)  
-
+```yml
 [DinoCheatDeath]  
 InvincibleDuration=5  
 CheatDeathCooldown=1800  
 TeleportOnDinoDeath=True  
 TeleportOnPlayerDeath=True  
 ActivateDebugPrints = false  
-  
+```
 These values can be adjusted to suit your preferences through the .ini options.  
   
 ### SpawnCommands:  
