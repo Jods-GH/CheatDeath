@@ -32,6 +32,7 @@ CheatDeathConsumable: cheat giveitem "/CheatDeath/Items/PrimalItem_DinoCheatDeat
 If you have any feedback feel free to contact me through https://discord.com/invite/v3gYmYamGJ or via the comments.  
   
 I would like to extend my special thanks to the Ark modding community on Discord, particularly Quellcast, Pullourpo, and joehelp, whose guidance and assistance were instrumental in helping me navigate the intricacies of the ArkDevKit and kick-starting this project.  
+
 [//]: # (Links)
 
 [Discord]: https://discord.com/invite/v3gYmYamGJ (Join the Discord)
