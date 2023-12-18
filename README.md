@@ -29,8 +29,6 @@ CheatDeathFlag: cheat giveitem "/CheatDeath/Items/PrimalItemStructure_DinoCheatD
   
 CheatDeathConsumable: cheat giveitem "/CheatDeath/Items/PrimalItem_DinoCheatDeath_Consumable.PrimalItem_DinoCheatDeath_Consumable" 10 0 0 false  
   
-If you have any feedback feel free to contact me through https://discord.com/invite/v3gYmYamGJ or via the comments.  
-  
 I would like to extend my special thanks to the Ark modding community on Discord, particularly Quellcast, Pullourpo, and joehelp, whose guidance and assistance were instrumental in helping me navigate the intricacies of the ArkDevKit and kick-starting this project.  
 
 [//]: # (Links)
