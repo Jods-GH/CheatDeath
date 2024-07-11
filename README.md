@@ -44,4 +44,4 @@ I would like to extend my special thanks to the Ark modding community on Discord
 [//]: # (Images)
 [SVG-Curseforge]: https://cf.way2muchnoise.eu/short_928506.svg
 [SVG-Discord]: https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=fff&style=flat-square
-[SVG-PayPal]: https://custom-icon-badges.demolab.com/badge/-Donate-lightgrey?style=flat-square&logo=paypal&color=007CB1
+[SVG-PayPal]: https://custom-icon-badges.demolab.com/badge/-Support-lightgrey?style=flat-square&logo=kofi&color=222222
