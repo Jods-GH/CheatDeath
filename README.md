@@ -38,7 +38,7 @@ I would like to extend my special thanks to the Ark modding community on Discord
 [//]: # (Links)
 
 [Discord]: https://discord.com/invite/v3gYmYamGJ (Join the Discord)
-[PayPal]: https://www.paypal.com/donate/?hosted_button_id=PSQ4D3HXNZKMG (Donate via PayPal)
+[PayPal]: https://ko-fi.com/jodsderechte (Donate via PayPal)
 [Curseforge]: https://www.curseforge.com/ark-survival-ascended/mods/cheat-death
 
 [//]: # (Images)
